@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "零基础小白如何搭建自己的 github.io 个人网站"
+title: "转载:零基础小白如何搭建自己的 github.io 个人网站"
 date:   2024-1-27
 tags: [web]
 comments: true
@@ -12,10 +12,10 @@ author: pianfan
 <!-- more -->
 
 ### 目录
-
-- [Step 0. 准备工作](#step-0-准备工作)
-- [Step 1. 建立博客仓库](#step-1-建立博客仓库)
-- [Step 2. 修改仓库文件](#step-2-修改仓库文件)
+- [Step 1. 转载自前辈翩帆](#pianfan.github.io)
+- [Step 2. 准备工作](#step-0-准备工作)
+- [Step 3. 建立博客仓库](#step-1-建立博客仓库)
+- [Step 4. 修改仓库文件](#step-2-修改仓库文件)
   - [修改 README.md文件](#修改-readmemd文件)
   - [修改 _config.yml 文件](#修改-_configyml-文件)
   - [删除 _posts 文件夹并重建](#删除-_posts-文件夹并重建)
