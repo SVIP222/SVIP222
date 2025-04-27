@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "孙子兵法-始计篇"
+title: "孙子兵法-九变篇"
 date:   2024-5-1
 tags: [孙子兵法]
 comments: true
