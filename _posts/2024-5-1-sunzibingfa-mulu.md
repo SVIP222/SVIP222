@@ -21,7 +21,7 @@ author: 孙武
 <li> <a href="https://bo88888.github.io/sunzibingfa-juanyi">卷一﹕始计篇</a> </li>
 <li> <a href="https://bo88888.github.io/sunzibingfa-juaner">卷二﹕作战篇</a> </li>
 <li> <a href="https://bo88888.github.io/sunzibingfa-juansan">卷三﹕谋攻篇</a> </li>
-<li> <a href="https://www.zhihu.com/people/AJLoveChina">卷四﹕军形篇</a> </li>
+<li> <a href="https://bo88888.github.io/sunzibingfa-juansi">卷四﹕军形篇</a> </li>
 <li> <a href="https://www.zhihu.com/people/AJLoveChina">卷五﹕兵势篇</a> </li>
 <li> <a href="https://www.zhihu.com/people/AJLoveChina">卷六﹕虚实篇</a> </li>
 <li> <a href="https://www.zhihu.com/people/AJLoveChina">卷七﹕军争篇</a> </li>
