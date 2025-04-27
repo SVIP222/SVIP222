@@ -41,6 +41,10 @@ author: 孙武
 
 <br>
 
+<ul>
+<li> <a href="https://bo88888.github.io/sunzibingfa-mulu">返回《孙子兵法-目录》</a> </li>
+</ul>
+
 #### 注释:
 
 　　兵：兵士、兵器、军队、军事，此指军事。
