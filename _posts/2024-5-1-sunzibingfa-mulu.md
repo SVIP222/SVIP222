@@ -19,7 +19,7 @@ author: 孙武
 ### 目录
 <ul>
 <li> <a href="https://bo88888.github.io/sunzibingfa-juanyi">卷一﹕始计篇</a> </li>
-<li> <a href="https://www.zhihu.com/people/AJLoveChina">卷二﹕作战篇</a> </li>
+<li> <a href="https://bo88888.github.io/sunzibingfa-juaner">卷二﹕作战篇</a> </li>
 <li> <a href="https://www.zhihu.com/people/AJLoveChina">卷三﹕谋攻篇</a> </li>
 <li> <a href="https://www.zhihu.com/people/AJLoveChina">卷四﹕军形篇</a> </li>
 <li> <a href="https://www.zhihu.com/people/AJLoveChina">卷五﹕兵势篇</a> </li>
@@ -30,7 +30,7 @@ author: 孙武
 <li> <a href="https://www.zhihu.com/people/AJLoveChina">卷十一﹕九地篇</a> </li>
 <li> <a href="https://www.zhihu.com/people/AJLoveChina">卷十二﹕火攻篇</a> </li>
 <li> <a href="https://www.zhihu.com/people/AJLoveChina">卷十三﹕用间篇</a> </li>
-</ul>
+  </ul>
 <br>
 <P>温馨提示：</P>
 <P>① 免责声明：本站为免费公益性网站，旨在弘扬中国传统国学文化，《孙子兵法》仅供学习研究。</P>
