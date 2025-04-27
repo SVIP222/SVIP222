@@ -1,8 +1,8 @@
-name: "内部下载站"
-description: "内部资源下载技术博客"
+name: "水镜先生"
+description: "你看去年缓缓流淌的轻烟，又怎知不是今年滂沱的大雨"
 
-avatar: https://SVIP222.github.io/images/头像1.jpg
-favicon: https://SVIP222.github.io/images/favicon.ico
+avatar: https://bo88888.github.io/images/头像1.jpg
+favicon: https://bo88888.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2025
 
-url: https://SVIP222.github.io
+url: https://bo88888.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
