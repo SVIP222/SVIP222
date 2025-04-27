@@ -24,12 +24,13 @@ author: 孙武
 <li> <a href="https://bo88888.github.io/sunzibingfa-juansi">卷四﹕军形篇</a> </li>
 <li> <a href="https://bo88888.github.io/sunzibingfa-juanwu">卷五﹕兵势篇</a> </li>
 <li> <a href="https://bo88888.github.io/sunzibingfa-juan6">卷六﹕虚实篇</a> </li>
-<li> <a href="https://www.zhihu.com/people/AJLoveChina">卷七﹕军争篇</a> </li>
-<li> <a href="https://www.zhihu.com/people/AJLoveChina">卷八﹕九变篇</a> </li>
-<li> <a href="https://www.zhihu.com/people/AJLoveChina">卷九﹕行军篇</a> </li>
-<li> <a href="https://www.zhihu.com/people/AJLoveChina">卷十一﹕九地篇</a> </li>
-<li> <a href="https://www.zhihu.com/people/AJLoveChina">卷十二﹕火攻篇</a> </li>
-<li> <a href="https://www.zhihu.com/people/AJLoveChina">卷十三﹕用间篇</a> </li>
+<li> <a href="https://bo88888.github.io/sunzibingfa-juanqi">卷七﹕军争篇</a> </li>
+<li> <a href="https://bo88888.github.io/sunzibingfa-juanba">卷八﹕九变篇</a> </li>
+<li> <a href="https://bo88888.github.io/sunzibingfa-juanjiu">卷九﹕行军篇</a> </li>
+<li> <a href="https://bo88888.github.io/sunzibingfa-juanshi">卷十﹕地形篇</a> </li>
+<li> <a href="https://bo88888.github.io/sunzibingfa-juansy">卷十一﹕九地篇</a> </li>
+<li> <a href="https://bo88888.github.io/sunzibingfa-juanse">卷十二﹕火攻篇</a> </li>
+<li> <a href="https://bo88888.github.io/sunzibingfa-juanssan">卷十三﹕用间篇</a> </li>
   </ul>
 <br>
 <P>温馨提示：</P>
