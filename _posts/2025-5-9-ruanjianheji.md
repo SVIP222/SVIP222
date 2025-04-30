@@ -38,3 +38,5 @@ Edge 微软基于Chromium开源项目及其他开源软件开发的网页浏览�
 ### <span id="WPS专业版">4. WPS专业版</span>
 
 无广告，界面简洁，自带VBA宏
+
+<a href="https://www.ilanzou.com/s/rqCZZKDN">点击前往</a>
