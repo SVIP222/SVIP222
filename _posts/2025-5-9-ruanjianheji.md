@@ -9,35 +9,33 @@ author: 无
 
 <!-- more -->
 
-### 目录
+## 目录
 
- <li><a href="#Edge浏览器">Edge浏览器</a></li>
-
-- [谷歌浏览器](#tjump2)
-- [Bandizip](#jump3)
-
- <li><a href="#WPS专业版">WPS专业版</a></li>
-
+- [Edge浏览器](#mulu1)
+- [谷歌浏览器](#mulu2)
+- [Bandizip](#mulu3)
+- [WPS专业版](#mulu4)
 ---
-<h2 id="step0">Step 0. 准备工作</h2>
 
-Edge 微软基于Chromium开源项目及其他开源软件开发的网页浏览器;极速响应、安全稳定、简洁流畅、纯净无广告极速下载.自带整页翻译等功能,智能双核  
+## Edge<a id="mulu1"></a>
 
-<a href="https://www.google.com/chrome">点击前往</a>  
+Edge 微软基于Chromium开源项目及其他开源软件开发的网页浏览器;极速响应、安全稳定、简洁流畅、纯净无广告极速下载.自带整页翻译等功能,智能双核
 
- <span id="jump2">2. 谷歌浏览器</span>
+<a href="https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB">点击前往</a>
+
+## 谷歌浏览器<a id="mulu2"></a>
 
 谷歌浏览器 插件极其丰富，码农&程序猿们的最爱，界面简洁，浏览很多网页都非常丝滑流畅，即使是新手也能快速入门。
 
 <a href="https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB">点击前往</a>
 
-##  <span id="jump3">3. Bandizip</span>
+## Bandizip<a id="mulu3"></a>
 
 一款非常好用的免费解压缩软件，是一个集压缩、解压缩、浏览、编辑为一体的压缩软件，不仅颜值高，而且软件的体验也做的非常好
 
 <a href="https://www.bandisoft.com">点击前往</a>
 
-<li><h3 id="WPS专业版">WPS专业版</h3></li>
+## WPS专业版<a id="mulu4"></a>
 
 无广告，界面简洁，自带VBA宏
 
