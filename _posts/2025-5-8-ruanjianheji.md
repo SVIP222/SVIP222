@@ -25,3 +25,4 @@ author: 无
 | VMware 虚拟机 | <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion">点击前往</a> | Windows |
 | TeamViewer远程协助 | <a href="https://www.teamviewer.cn/cn/download">点击前往</a> | 全系统 |
 | 希沃零度系统还原 | <a href="https://www.ilanzou.com/s/na1Z0iPl">点击前往</a> | Windows |
+| 蓝奏云挂载 | <a href="https://github.com/chenhb23/lanzouyun-disk">点击前往</a> | 全系统 |
