@@ -11,19 +11,21 @@ author: 无
 
 ### 目录
 
-- [Edge浏览器](#jump1)
+ <li><a href="#Edge浏览器">Edge浏览器</a></li>
+
 - [谷歌浏览器](#tjump2)
 - [Bandizip](#jump3)
-- [WPS专业版](#jump4)
+
+ <li><a href="#WPS专业版">WPS专业版</a></li>
 
 ---
-## <span id="jump1">1. Edge浏览器</span>
+<h2 id="step0">Step 0. 准备工作</h2>
 
 Edge 微软基于Chromium开源项目及其他开源软件开发的网页浏览器;极速响应、安全稳定、简洁流畅、纯净无广告极速下载.自带整页翻译等功能,智能双核  
 
 <a href="https://www.google.com/chrome">点击前往</a>  
 
-##  <span id="jump2">2. 谷歌浏览器</span>
+ <span id="jump2">2. 谷歌浏览器</span>
 
 谷歌浏览器 插件极其丰富，码农&程序猿们的最爱，界面简洁，浏览很多网页都非常丝滑流畅，即使是新手也能快速入门。
 
@@ -35,7 +37,7 @@ Edge 微软基于Chromium开源项目及其他开源软件开发的网页浏览�
 
 <a href="https://www.bandisoft.com">点击前往</a>
 
-## <span id="jump4">4. WPS专业版</span>
+<li><h3 id="WPS专业版">WPS专业版</h3></li>
 
 无广告，界面简洁，自带VBA宏
 
