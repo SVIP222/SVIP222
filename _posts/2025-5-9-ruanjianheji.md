@@ -14,7 +14,7 @@ author: 无
 - [Edge浏览器](#mulu1)
 - [谷歌浏览器](#mulu2)
 - [Bandizip](#mulu3)
-- [WPS专业版](#mulu4)
+- [WPS 专业版](#mulu4)
 ---
 
 ## Edge<a id="mulu1"></a>
