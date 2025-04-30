@@ -11,10 +11,10 @@ author: 无
 
 ## 目录
 
-- [Edge浏览器](#Edge浏览器1)
-- [谷歌浏览器](#谷歌浏览器2)
-- [Bandizip](#Bandizip3)
-- [WPS专业版](#WPS专业版4)
+- [Edge浏览器](#tz-Edge浏览器1)
+- [谷歌浏览器](#tz-谷歌浏览器2)
+- [Bandizip](#tz-Bandizip3)
+- [WPS专业版](#tz-WPS专业版4)
 
 ---
 ### <span id="Edge浏览器">1. Edge浏览器</span>
@@ -35,7 +35,7 @@ Edge 微软基于Chromium开源项目及其他开源软件开发的网页浏览�
 
 <a href="https://www.bandisoft.com">点击前往</a>
 
-### <span id="WPS专业版">4. WPS专业版</span>
+### <span id="tz-WPS专业版">4. WPS专业版</span>
 
 无广告，界面简洁，自带VBA宏
 
