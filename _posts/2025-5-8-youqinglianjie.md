@@ -22,4 +22,4 @@ author: 无
 
 </ul>
 
-<span id="随机密码生成"> <li> <a href="https://tool.ip138.com/random">随机密码生成</a> </li>：</span>
+<span id="随机密码生成"> <a href="https://tool.ip138.com/random">随机密码生成</a> ：</span>
