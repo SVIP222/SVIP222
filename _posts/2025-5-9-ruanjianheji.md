@@ -35,7 +35,7 @@ Edge 微软基于Chromium开源项目及其他开源软件开发的网页浏览�
 
 <a href="https://www.bandisoft.com">点击前往</a>
 
-## WPS专业版<a id="mulu4"></a>
+## WPS 专业版<a id="mulu4"></a>
 
 无广告，界面简洁，自带VBA宏
 
