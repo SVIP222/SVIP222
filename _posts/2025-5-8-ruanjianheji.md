@@ -17,6 +17,7 @@ author: 无
 | Edge浏览器 |  <a href="https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB">点击前往</a>  | 全系统 |
 | 谷歌浏览器 |  <a href="https://www.google.com/chrome">点击前往</a>  | 全系统 |
 | Bandizip压缩 |  <a href="https://www.bandisoft.com">点击前往</a>  | 全系统 |
+| WPS专业版 |  <a href="https://www.ilanzou.com/s/rqCZZKDN">点击前往</a>  | Windows |
 | Everything文件名搜索 |  <a href="https://www.voidtools.com">点击前往</a>  | Windows |
 | Quicker鼠标快捷 |  <a href="https://getquicker.net">点击前往</a>  | Windows |
 | GeekUninstaller软件卸载 |  <a href="https://geekuninstaller.com">点击前往</a>  | Windows |
