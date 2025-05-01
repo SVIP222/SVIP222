@@ -50,7 +50,7 @@ Edge 微软基于Chromium开源项目及其他开源软件开发的网页浏览�
 
 谷歌浏览器 插件极其丰富，码农&程序猿们的最爱，界面简洁，浏览很多网页都非常丝滑流畅，即使是新手也能快速入门。
 
-<a href="https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB">点击前往</a>
+<a href="https://www.google.com/chrome">点击前往</a>
 
 ## Bandizip<a id="mulu3"></a>
 
