@@ -19,7 +19,6 @@ author: 无
 | WPS专业版 |  <a href="https://www.ilanzou.com/s/rqCZZKDN">点击前往</a>  | Windows |
 | Everything文件名搜索 |  <a href="https://www.voidtools.com">点击前往</a>  | Windows |
 | Quicker鼠标快捷 |  <a href="https://getquicker.net">点击前往</a>  | Windows |
-| GeekUninstaller软件卸载 |  <a href="https://geekuninstaller.com">点击前往</a>  | Windows |
 | CleanMy® PC装机必备 |  <a href="https://macpaw.com/cleanmypc">点击前往</a>  | 全系统 |
 | VMware 虚拟机 | <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion">点击前往</a> | Windows |
 | TeamViewer远程协助 | <a href="https://www.teamviewer.cn/cn/download">点击前往</a> | 全系统 |
@@ -36,7 +35,6 @@ author: 无
 - [WPS专业版](#mulu4)
 - [Everything](#mulu5)
 - [Quicker](#mulu6)
-- [GeekUninstaller](#mulu7)
 
 ---
 
@@ -79,7 +77,3 @@ Everything 本地文件名搜索软件里的天花板，绿色安全无广告，
 <a href="https://getquicker.net">点击前往</a>
 
 ## GeekUninstaller<a id="mulu7"></a>
-
-Geek   一款绿色的软件卸载工具，它可以自动查找你的电脑中安装的软件程序，并以列表的形式展现出来，你不仅可以在一个小窗口内看到电脑中所有的软件，对于一些难以卸载的流氓软件，还可以使用它的强制删除功能，除此之外，它还可以卸载系统自带的应用，软件小巧，功能强大，仅仅只有6MB的大小
-
-<a href="https://geekuninstaller.com">点击前往</a>
