@@ -17,7 +17,7 @@ author: 无
 | 谷歌浏览器 |  <a href="https://www.google.com/chrome">点击前往</a>  | 全系统 |
 | kaspersky(卡巴斯基) |  <a href="https://www.kaspersky.com.cn/free-antivirus">点击前往</a>  | Windows |
 | 火绒安全 |  <a href="https://www.huorong.cn">点击前往</a>  | Windows |
-| Bandizip压缩 |  <a href="https://www.bandisoft.com">点击前往</a>  | 全系统 |
+| Bandizip压缩 |  <a href="https://www.ilanzou.com/s/Qu2ZZoDk">点击前往</a>  | 全系统 |
 | WPS专业版 |  <a href="https://www.ilanzou.com/s/rqCZZKDN">点击前往</a>  | Windows |
 | Everything文件名搜索 |  <a href="https://www.voidtools.com">点击前往</a>  | Windows |
 | Quicker鼠标快捷 |  <a href="https://getquicker.net">点击前往</a>  | Windows |
@@ -61,7 +61,8 @@ Edge 微软基于Chromium开源项目及其他开源软件开发的网页浏览�
 ## 火绒安全<a id="mulu4"></a>
 
 配合:卡巴斯基使用
-帮您解决病毒、木马、流氓软件、黑客入侵等终端威胁;产品拥有体积轻巧、扫描速率快、查杀精准、误报率低等特点
+
+轻量安静，良心好用的电脑安全软件。自带的小工具，包括弹窗拦截、右键管理、垃圾清理、流量监控等，也很实用。
 
 <a href="https://www.huorong.cn">点击前往</a>
 
