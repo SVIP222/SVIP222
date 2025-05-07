@@ -8,11 +8,6 @@ author: 无
 ---
 
 <!-- more -->
-<br>
-
-<p align = "center">    
-<img  src="https://bo88888.github.io/images/勃朗峰雪山.jpeg" width="1100" />
-</p>
 
 ## 目录︰
 
