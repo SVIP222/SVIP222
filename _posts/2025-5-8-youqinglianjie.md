@@ -9,7 +9,7 @@ author: 无
 
 <!-- more -->
 
-## 目录︰
+# 目录
 
 - [随机密码生成](https://www.lddgo.net/string/randompassword)
 
