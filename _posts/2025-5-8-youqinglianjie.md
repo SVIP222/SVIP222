@@ -17,6 +17,8 @@ author: 无
 
 - [自我IP查询](https://www.ip111.cn)
 
+- [图片隐藏文本](https://www.lddgo.net/image/image-hide-text)
+
 - [Markdown 教程](https://markdown.com.cn/basic-syntax/)
 
 - [飞机注销](https://my.telegram.org/auth)
