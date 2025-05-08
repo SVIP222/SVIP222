@@ -11,8 +11,6 @@ author: 无
 
 ## 目录︰
 
-- [文本差异对比](https://www.lddgo.net/string/text-compare)
-
 - [随机密码生成](https://www.lddgo.net/string/randompassword)
 
 - [自我IP查询](https://www.ip111.cn)
