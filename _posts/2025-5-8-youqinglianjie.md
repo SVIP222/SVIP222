@@ -11,14 +11,14 @@ author: 无
 
 ## 目录︰
 
-[文本差异对比](https://www.lddgo.net/string/text-compare)
+- [文本差异对比](https://www.lddgo.net/string/text-compare)
 
-[随机密码生成](https://www.lddgo.net/string/randompassword)
+- [随机密码生成](https://www.lddgo.net/string/randompassword)
 
-[自我IP查询](https://www.ip111.cn)
+- [自我IP查询](https://www.ip111.cn)
 
-[Markdown 教程](https://markdown.com.cn/basic-syntax/)
+- [Markdown 教程](https://markdown.com.cn/basic-syntax/)
 
-[飞机注销](https://my.telegram.org/auth)
+- [飞机注销](https://my.telegram.org/auth)
 
-[苹果海外ID注册教程](https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519-%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E8%8B%B9%E6%9E%9C%E6%B5%B7%E5%A4%96-Apple-ID)
+- [苹果海外ID注册教程](https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519-%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E8%8B%B9%E6%9E%9C%E6%B5%B7%E5%A4%96-Apple-ID)
