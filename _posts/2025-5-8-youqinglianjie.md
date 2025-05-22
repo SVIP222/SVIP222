@@ -9,8 +9,6 @@ author: 无
 
 <!-- more -->
 
-# 工具库
-
 - [随机密码生成](https://www.lddgo.net/string/randompassword)
 
 - [自我IP查询](https://www.ip111.cn)
